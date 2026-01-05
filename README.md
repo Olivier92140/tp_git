@@ -10,7 +10,7 @@ Avant de lancer l’application, assurez-vous de disposer des éléments suivant
 * **uv** installé et accessible depuis le terminal
 
 ---
-
+# ce fichier est un fork
 ### Création de l’environnement et installation des dépendances
 
 Depuis la racine du projet, exécutez les commandes suivantes :
